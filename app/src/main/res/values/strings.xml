@@ -8,5 +8,9 @@
     <string name="hint_month">Mês</string>
     <string name="hint_year">Ano</string>
     <string name="helper_required">Obrigatório*</string>
-    <string name="save">save</string>
+    <string name="save">salvar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">sobre</string>
+    <string name="movies">movies</string>
 </resources>
